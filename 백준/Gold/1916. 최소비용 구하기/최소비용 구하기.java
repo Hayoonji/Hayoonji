@@ -56,10 +56,13 @@ public class Main {
 		for (int i = 1; i <= N; i++) {
 			cost[i] = INF;
 		}
-		Arrays.fill(visited, false);
+        for (int i = 1; i <= N; i++) {
+			visited[i] = false;
+		}
+		//Arrays.fill(visited, false);
 		cost[start] = 0;
-		
-		pq.add(new Node(start, 0));
+		pq.offer(new Node(start, 0));
+		//pq.add(new Node(start, 0));
 		
 		while (!pq.isEmpty()) {
             Node now = pq.poll();
