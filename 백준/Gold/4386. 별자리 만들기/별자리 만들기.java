@@ -33,7 +33,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
+		int n = sc.nextInt();//별(노드) 개수
 		Star[] stars = new Star[n]; // 별의 위치
         boolean[] visited = new boolean[n]; // 방문 여부
 		double[] distance = new double[n]; // 시작 정점에서부터 각 정점 사이의 거리
@@ -41,7 +41,7 @@ public class Main {
 		ArrayList<ArrayList<StarDist>> graph = new ArrayList<>(); 
 		
 		for (int i = 0; i < n; i++) {
-			distance[i] = Double.MAX_VALUE; // 거리 초기화
+			distance[i] = Double.MAX_VALUE; // 거리 초기화            
 			graph.add(new ArrayList<>()); // 그래프 구현
 		}
 
@@ -51,13 +51,15 @@ public class Main {
 			double y = sc.nextDouble();
 			stars[i] = new Star(x, y);
 			for (int j = 0; j < i; j++) {
-				double dist = calDist(stars[i], stars[j]);
+                //거리계산
+				double dist = Math.sqrt(Math.pow(stars[i].x - stars[j].x, 2) + Math.pow(stars[i].y - stars[j].y, 2));
 				graph.get(i).add(new StarDist(j, dist));
 				graph.get(j).add(new StarDist(i, dist));
+                
 			}
 		}
 
-		// prim
+		// prim; 최소 거리 찾기
 		double result = 0;
         distance[0] = 0;
 
@@ -81,11 +83,16 @@ public class Main {
             result += minDist;  // 최소 거리를 결과에 더함
 
             // 인접한 별들의 거리를 갱신하는 과정 (더 짧은 거리가 발견되면 갱신)
-            for (StarDist i : graph.get(minDistStar)) {
-                if (!visited[i.star] && i.dist < distance[i.star]) {
-                    distance[i.star] = i.dist;
-                }
-            }
+            ArrayList<StarDist> adjacentStars = graph.get(minDistStar);
+			for (int j = 0; j < adjacentStars.size(); j++) {
+				StarDist starDist = adjacentStars.get(j);
+				int starIndex = starDist.star;
+				double dist = starDist.dist;
+				if (!visited[starIndex] && dist < distance[starIndex]) {
+					distance[starIndex] = dist;
+				}
+			}
+
         }
 
 
@@ -93,8 +100,5 @@ public class Main {
 		System.out.printf("%.2f", result);
 	}
 
-	// 거리 계산
-	public static double calDist(Star a, Star b) {
-		return Math.sqrt(Math.pow(a.x - b.x, 2) + Math.pow(a.y - b.y, 2));
-	}
+	
 }
