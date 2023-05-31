@@ -1,4 +1,3 @@
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -43,7 +42,7 @@ public class Main {
         a=scan.next();
         b=a.split("");
         for(int i=0;i<a.length();i++){
-            sum+=codes.get(b[i])*(Math.pow(31,i));
+            sum+=codes.get(b[i])*(Math.pow(31,i)% 1234567891);
         }
         System.out.println(sum);
         
