@@ -4,7 +4,8 @@ import java.util.Scanner;
 import java.util.HashMap;
 
 public class Main {
-    static int L,sum;
+    static int L;
+    static long sum;
     static String a;
     static String b[];
     public static void main(String[] args) {
@@ -42,7 +43,7 @@ public class Main {
         a=scan.next();
         b=a.split("");
         for(int i=0;i<a.length();i++){
-            sum+=codes.get(b[i])*(Math.pow(31,i)% 1234567891);
+            sum+=(codes.get(b[i])*(Math.pow(31,i)))%1234567891;
         }
         System.out.println(sum);
         
