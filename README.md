@@ -1,12 +1,12 @@
 ### 📍 About Me
---
+---
 👋 Hi there :) I’m AI Reasearcher with 2 years of experience.
 🖥 I'm interested in time-series anomaly detection and test-time adaptation, focusing on distribution/concept drift for predictive maintenance (PHM/CBM) and industrial AI.
 
 
 ### 🛠 Tech Stack
---
-Languages & Development Tools
+---
+##### Languages & Development Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
@@ -17,6 +17,10 @@ Languages & Development Tools
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=QGIS&logoColor=white)
+
+##### Platform
+![Windows](https://img.shields.io/badge/Windows-80B3FF?style=flat&logo=gitforwindows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
 
 
 
