@@ -11,6 +11,7 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=Java&logoColor=white)
 
+![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white)
 
 
 
