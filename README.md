@@ -7,6 +7,7 @@
 🖥 I'm interested in Time-series Anomaly Detection and Test-Time Adaptation(TTA), focusing on Distribution/Concept drift for Predictive Maintenance (PHM/CBM) and industrial AI.
 
 
+
 ### 🛠 Tech Stack
 ---
 ##### Languages & Development Tools
@@ -27,6 +28,8 @@
 
 
 
+
 ### 📊 Algorithm & Language Stats
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnzk99)](https://solved.ac/wnzk99/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here&layout=compact)](https://github.com/Hayoonji/github-readme-stats)
