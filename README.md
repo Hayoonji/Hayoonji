@@ -1,11 +1,11 @@
 ### 📍 About Me
 ---
+![Hits](https://img.shields.io/github/followers/Hayoonji?label=Follow)
 👋 Hi there :) I’m Yoonji Ha, dreaming an AI Reasearcher.
 
 ⛪ I'm currently studying in a Master's degree in the SPS Lab at Korea University.
 
 🖥 I'm interested in Time-series Anomaly Detection and Test-Time Adaptation(TTA), focusing on Distribution/Concept drift for Predictive Maintenance (PHM/CBM) and industrial AI.
-
 
 
 
@@ -30,8 +30,13 @@
 
 
 
-
 ### 📊 Algorithm & Language Stats
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnzk99)](https://solved.ac/wnzk99/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayoonji&layout=compact)](https://github.com/here/github-readme-stats)
+
+
+
+### ☎ Contacts
+---
+
