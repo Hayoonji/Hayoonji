@@ -40,4 +40,5 @@
 
 ### ☎ Contacts
 ---
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/h_y99nz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/h_y99nz)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9C%A4%EC%A7%80-%ED%95%98-0a23a4293/)
