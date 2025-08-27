@@ -40,4 +40,4 @@
 
 ### ☎ Contacts
 ---
-![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=Instagram&link=https://instagram.com/h_y99nz/&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=Instagram&link=https://instagram.com/h_y99nz&logoColor=white)
