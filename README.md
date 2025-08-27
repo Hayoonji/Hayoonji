@@ -4,7 +4,7 @@
 
 ⛪ I'm currently studying in a Master's degree in the SPS Lab at Korea University.
 
-🖥 I'm interested in time-series anomaly detection and test-time adaptation, focusing on distribution/concept drift for predictive maintenance (PHM/CBM) and industrial AI.
+🖥 I'm interested in #### time-series anomaly detection and test-time adaptation, focusing on distribution/concept drift for predictive maintenance (PHM/CBM) and industrial AI.
 
 
 ### 🛠 Tech Stack
