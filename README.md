@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack
 ---
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
 
 
