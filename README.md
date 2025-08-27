@@ -32,4 +32,4 @@
 ### 📊 Algorithm & Language Stats
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnzk99)](https://solved.ac/wnzk99/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here&layout=compact)](https://github.com/Hayoonji/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Hayoonji&layout=compact)](https://github.com/Hayoonji/github-readme-stats)
