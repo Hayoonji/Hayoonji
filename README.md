@@ -1,6 +1,6 @@
 ### 📍 About Me
 ---
-👋 Hi there :) I’m Yoonji Ha, dreaming AI Reasearcher.
+👋 Hi there :) I’m Yoonji Ha, dreaming an AI Reasearcher.
 
 ⛪ I'm currently studying in a Master's degree in the SPS Lab at Korea University.
 
