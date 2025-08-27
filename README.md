@@ -2,7 +2,7 @@
 ---
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-👋 Hi there :) I’m Yoonji Ha, dreaming an AI Reasearcher.
+👋 Hi there :) I’m Yoonji Ha, dreaming an AI Researcher.
 
 ⛪ I'm currently studying in a Master's degree in the SPS Lab at Korea University.
 
