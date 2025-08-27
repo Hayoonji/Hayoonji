@@ -7,6 +7,7 @@
 ### 🛠 Tech Stack
 ---
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=black)
 
 
 
