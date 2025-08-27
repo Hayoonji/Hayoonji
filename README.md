@@ -8,6 +8,7 @@
 
 
 
+
 ### 🛠 Tech Stack
 ---
 ##### Languages & Development Tools
@@ -25,6 +26,7 @@
 ##### Platform
 ![Windows](https://img.shields.io/badge/Windows-80B3FF?style=flat&logo=gitforwindows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white)
+
 
 
 
