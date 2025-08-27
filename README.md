@@ -1,6 +1,7 @@
 ### 📍 About Me
 ---
-👋 Hi there :) I’m AI Reasearcher with 2 years of experience.
+👋 Hi there :) I’m Yoonji Ha, dreaming AI Reasearcher.
+⛪ I'm currently studying in a Master's degree in the '''SPS Lab''' at Korea University.
 🖥 I'm interested in time-series anomaly detection and test-time adaptation, focusing on distribution/concept drift for predictive maintenance (PHM/CBM) and industrial AI.
 
 
